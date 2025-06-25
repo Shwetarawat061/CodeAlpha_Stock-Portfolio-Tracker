@@ -1,4 +1,4 @@
-# 📊 Stock Portfolio Tracker (Python - No API)
+# 📊 Stock Portfolio Tracker (Python )
 
 A simple command-line **Stock Portfolio Tracker** built with Python that allows you to manage and track your stock investments without relying on any external APIs. Ideal for beginners to understand file handling, dictionaries, and basic portfolio logic.
 

@@ -6,7 +6,7 @@ stock_prices = {"AAPL": 180, "TSLA": 250, "GOOG": 140, "MSFT": 300}
 # Portfolio dictionary to keep track of stocks and quantities
 portfolio = {}
 
-print("=== Welcome to the Stock Portfolio Tracker ===")
+print("==== Welcome to the Stock Portfolio Tracker ====")
 print("You can enter stock names to add them to your portfolio.")
 print("If a stock isn't in the list, you can add it with its current price.")
 print("Type 'done' when you are finished entering stocks.\n")
